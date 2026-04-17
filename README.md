@@ -2,15 +2,15 @@
 
 Chào mừng bạn đến với dự án **ShopVip**! Đây là một mẫu giao diện website bán hàng/thương mại điện tử tĩnh, được xây dựng bằng HTML, CSS (thuần), và JavaScript (thuần). Dự án có bố cục hiện đại, chuẩn Responsive và có một số tính năng tương tác người dùng cơ bản ở phía client.
 
-## 📁 Cấu Trúc Dự Án
+## Cấu Trúc Dự Án
 
-- `index.html`: Trang đích (Home) của website, hiển thị banner quảng cáo, các danh mục sản phẩm nổi bật và một số sản phẩm hiển thị.
+- `ShopVip.html`: Trang đích (Home) của website, hiển thị banner quảng cáo, các danh mục sản phẩm nổi bật và một số sản phẩm hiển thị.
 - `category.html`: Trang hiển thị danh sách sản phẩm theo từng danh mục riêng biệt.
 - `style.css`: File chứa toàn bộ mã nguồn CSS, được chia nhỏ thành các section rõ ràng đảm nhận cấu trúc giao diện và hiệu ứng Animation.
 - `script.js`: File chứa mã nguồn JavaScript đảm nhận việc render dữ liệu tĩnh/mẫu (mock data) lên trang, xử lý giỏ hàng, và các tính năng tương tác khác.
 - `favicon.ico`, `*.png`: Các file icon biểu tượng cho website trên thanh tab trình duyệt.
 
-## 🚀 Hướng Dẫn Sử Dụng Code (Dành Cho Lập Trình Viên)
+## Hướng Dẫn Sử Dụng Code (Dành Cho Lập Trình Viên)
 
 Giao diện được thiết kế để dễ dàng tuỳ chỉnh hoặc tích hợp vào một dự án có Backend.
 
@@ -21,7 +21,7 @@ Giao diện được thiết kế để dễ dàng tuỳ chỉnh hoặc tích h�
 3. **Thêm trang/ Tính năng mới:**
    Tái sử dụng các class UI có sẵn trong CSS như `.btn`, `.container`, `.section-padding`,... để tạo ra các trang mới đồng nhất với thiết kế.
 
-## 💻 Hướng Dẫn Chạy & Sử Dụng Website
+## Hướng Dẫn Chạy & Sử Dụng Website
 
 Do đây là một dự án dựa thuần tuý trên HTML, CSS, và JS phía Client nên việc triển khai cực kỳ đơn giản.
 

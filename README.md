@@ -26,15 +26,14 @@ Giao diện được thiết kế để dễ dàng tuỳ chỉnh hoặc tích h�
 Do đây là một dự án dựa thuần tuý trên HTML, CSS, và JS phía Client nên việc triển khai cực kỳ đơn giản.
 
 ### Cách 1: Mở trực tiếp trên trình duyệt (Cơ bản nhất)
-1. Mở thư mục chứa mã nguồn (`shop-ui`).
-2. Tìm tới file `index.html`.
-3. Nhấn đúp chuột để mở trực tiếp trên trình duyệt web mặc định của bạn (Chrome, Edge, Safari...).
+1. Tìm tới file `ShopVip.html`.
+2. Nhấn đúp chuột để mở trực tiếp trên trình duyệt web mặc định của bạn (Chrome, Edge, Safari...).
 
 ### Cách 2: Sử Dụng Live Server trên VS Code (Khuyến nghị)
 Việc sử dụng Live Server giúp website có trải nghiệm mượt mà hơn (có Auto-reload khi code thay đổi).
 1. Mở thư mục dự án này bằng **Visual Studio Code (VS Code)**.
 2. Tải và cài đặt Extension có tên **Live Server** của tác giả Ritwick Dey.
-3. Chuột phải vào file `index.html` và chọn **"Open with Live Server"**.
+3. Chuột phải vào file `ShopVip.html` và chọn **"Open with Live Server"**.
 4. Website sẽ tự động được bật trên trình duyệt ở địa chỉ Localhost (VD: `http://127.0.0.1:5500/index.html`).
 
 ### Các Tính Năng Có Thể Trải Nghiệm Trên Web
